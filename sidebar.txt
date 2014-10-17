@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wbv:home|Door43 (wbv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wbv|d43-wbv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wbv/archive/master.zip|d43-wbv.zip]]
+
+**Recent Changes**
+{{changes>ns = wbv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wbv|Ethnologue data]]
+
